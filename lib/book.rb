@@ -22,4 +22,4 @@ class Book
 
 end
 
-writer1 = Writer.new  
+writer1 = Writer.new() 
