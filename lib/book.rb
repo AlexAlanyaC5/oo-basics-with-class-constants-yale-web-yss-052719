@@ -21,3 +21,5 @@ class Book
   end
 
 end
+
+writer1 = writer.new 
