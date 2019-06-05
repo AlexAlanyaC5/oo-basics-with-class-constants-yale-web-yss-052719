@@ -3,11 +3,11 @@ class Book
   attr_reader :title, :genre 
   
   genres = []
+  
+  def initia
 
-  def initialize(author, page_count)
-    @autho = author
-    @page_count = page_count
-    @genre = genre
+  def initialize(title)
+    @tittle = tittle
   end
 
   def turn_page
